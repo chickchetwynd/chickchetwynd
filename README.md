@@ -13,7 +13,7 @@ I am a career changer and currently looking for my first role in Data Analytics!
 <br />
 :white_check_mark: I have completed Google's [Data Analytics Certificate](https://grow.google/certificates/data-analytics/#?modal_active=none) as well as content from [Datacamp](https://app.datacamp.com/learn) and [Dataquest](https://app.dataquest.io/learning-path).
 <br />
-:white_check_mark: Creating powerful vizualizations with [Tableau](https://public.tableau.com/app/profile/chick.chetwynd) to highlight data insites.
+:white_check_mark: Creating powerful vizualizations with [Tableau](https://public.tableau.com/app/profile/chick.chetwynd) to highlight data insights.
 <br />
 :white_check_mark: I am currently learning Python with the goal of creating Jupyter notebooks where coding, analysis, and data vizualisation can all happen in the same place!
 

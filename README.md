@@ -1,13 +1,15 @@
 ### Hi there 👋, I'm Chick Chetwynd
 
-I'm a Data Analyst living in San Francisco :man_cartwheeling: :partying_face: :confetti_ball: :balloon:
+I'm a Data Analyst living in San Francisco :man_cartwheeling: :partying_face: :confetti_ball: :balloon:I am a career changer and currently looking for my first role in Data Analytics!
 
-I am a career changer and currently looking for my first role in Data Analytics! Take a look at my [portfolio](https://github.com/chickchetwynd/portfolio) to see projects that I've worked on.
+<br>
 
+__Take a look at my [portfolio](https://github.com/chickchetwynd/portfolio)__ to see projects that I've worked on.
+
+<br>
 
 #### What I'm currently focusing on :thinking::
 
-<br />
 
 :white_check_mark: My main strengths are in SQL where I am familiar with Standard SQL, PostgresQL, and Google Standard SQL.
 <br />

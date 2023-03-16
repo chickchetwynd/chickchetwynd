@@ -13,7 +13,7 @@ __Take a look at my [portfolio](https://github.com/chickchetwynd/portfolio)__ to
 
 :white_check_mark: My main strengths are in SQL where I am familiar with Standard SQL, PostgresQL, and Google Standard SQL.
 <br />
-:white_check_mark: I have completed Google's [Data Analytics Certificate](https://grow.google/certificates/data-analytics/#?modal_active=none) as well as content from [Datacamp](https://app.datacamp.com/learn) and [Dataquest](https://app.dataquest.io/learning-path).
+:white_check_mark: I have certificates from [Google](https://grow.google/certificates/data-analytics/#?modal_active=none), [Datacamp](https://app.datacamp.com/learn) and [Dataquest](https://app.dataquest.io/learning-path).
 <br />
 :white_check_mark: Creating powerful vizualizations with [Tableau](https://public.tableau.com/app/profile/chick.chetwynd) to highlight data insights.
 <br />

@@ -11,13 +11,15 @@ __Take a look at my [portfolio](https://github.com/chickchetwynd/portfolio)__ to
 #### What I'm currently focusing on :thinking::
 
 
-:white_check_mark: My main strengths are in SQL where I am familiar with Standard SQL, PostgresQL, and Google Standard SQL.
+<img width="20" alt="Screenshot 2023-04-20 at 11 26 12 AM" src="https://user-images.githubusercontent.com/121225842/233455102-4c5664a2-a6c6-426e-833a-ecb769a5589c.png"> Using SQL in projects for analysis and data cleaning/wrangling.
+<br />
+<img width="18" alt="Screenshot 2023-04-20 at 11 21 39 AM" src="https://user-images.githubusercontent.com/121225842/233454095-dc4031a3-b8f2-4953-8f71-aca7c3cbdfa0.png"> Using DBT as part of the modern data stack to model and transform data whithin data platforms.
 <br />
 :white_check_mark: I have certificates from [Google](https://grow.google/certificates/data-analytics/#?modal_active=none), [Datacamp](https://app.datacamp.com/learn) and [Dataquest](https://app.dataquest.io/learning-path).
 <br />
-:white_check_mark: Creating powerful vizualizations with [Tableau](https://public.tableau.com/app/profile/chick.chetwynd) to highlight data insights.
+<img width="22" alt="Screenshot 2023-04-20 at 11 27 21 AM" src="https://user-images.githubusercontent.com/121225842/233455346-64aea635-66f6-4210-9c64-dbf0dee55a16.png"> Creating powerful vizualizations with [Tableau](https://public.tableau.com/app/profile/chick.chetwynd) to highlight data insights.
 <br />
-:white_check_mark: I am currently learning Python with the goal of creating Jupyter notebooks where coding, analysis, and data vizualisation can all happen in the same place!
+<img width="22" alt="Screenshot 2023-04-20 at 11 29 17 AM" src="https://user-images.githubusercontent.com/121225842/233455717-e7bd55dc-1d6b-4fd4-ba05-33bdfdecac65.png"> I am currently learning Python with the goal of creating Jupyter notebooks where coding, analysis, and data vizualisation can all happen in the same place!
 
 
 <!--

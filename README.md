@@ -19,7 +19,7 @@ __Take a look at my [portfolio](https://github.com/chickchetwynd/portfolio)__ to
 <br />
 <img width="22" alt="Screenshot 2023-04-20 at 11 27 21 AM" src="https://user-images.githubusercontent.com/121225842/233455346-64aea635-66f6-4210-9c64-dbf0dee55a16.png"> Creating powerful vizualizations with Tableau to highlight data insights.
 <br />
-:white_check_mark: I have certificates from [Google](https://coursera.org/share/7954beeb76eb69aef1200b389fb327c1), [Datacamp](https://www.datacamp.com/certificate/DAA0012188002271) and [Dataquest](https://app.dataquest.io/view_cert/9Z1BINVDXX6ZFH0UZ1FQ).
+:open_book: I have certificates from [Google](https://coursera.org/share/7954beeb76eb69aef1200b389fb327c1), [Datacamp](https://www.datacamp.com/certificate/DAA0012188002271) and [Dataquest](https://app.dataquest.io/view_cert/9Z1BINVDXX6ZFH0UZ1FQ).
 
 
 <!--

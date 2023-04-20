@@ -15,11 +15,11 @@ __Take a look at my [portfolio](https://github.com/chickchetwynd/portfolio)__ to
 <br />
 <img width="18" alt="Screenshot 2023-04-20 at 11 21 39 AM" src="https://user-images.githubusercontent.com/121225842/233454095-dc4031a3-b8f2-4953-8f71-aca7c3cbdfa0.png"> Using DBT as part of the modern data stack to model and transform data whithin data platforms.
 <br />
+<img width="22" alt="Screenshot 2023-04-20 at 11 29 17 AM" src="https://user-images.githubusercontent.com/121225842/233455717-e7bd55dc-1d6b-4fd4-ba05-33bdfdecac65.png"> Learning Python for: data analysis, visualization, and automating and scripting the ETL process. 
+<br />
+<img width="22" alt="Screenshot 2023-04-20 at 11 27 21 AM" src="https://user-images.githubusercontent.com/121225842/233455346-64aea635-66f6-4210-9c64-dbf0dee55a16.png"> Creating powerful vizualizations with Tableau to highlight data insights.
+<br />
 :white_check_mark: I have certificates from [Google](https://grow.google/certificates/data-analytics/#?modal_active=none), [Datacamp](https://app.datacamp.com/learn) and [Dataquest](https://app.dataquest.io/learning-path).
-<br />
-<img width="22" alt="Screenshot 2023-04-20 at 11 27 21 AM" src="https://user-images.githubusercontent.com/121225842/233455346-64aea635-66f6-4210-9c64-dbf0dee55a16.png"> Creating powerful vizualizations with [Tableau](https://public.tableau.com/app/profile/chick.chetwynd) to highlight data insights.
-<br />
-<img width="22" alt="Screenshot 2023-04-20 at 11 29 17 AM" src="https://user-images.githubusercontent.com/121225842/233455717-e7bd55dc-1d6b-4fd4-ba05-33bdfdecac65.png"> I am currently learning Python with the goal of creating Jupyter notebooks where coding, analysis, and data vizualisation can all happen in the same place!
 
 
 <!--

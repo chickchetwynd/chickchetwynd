@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Chick Chetwynd 🌈♾
 
-I'm a Data Analyst living in San Francisco :man_cartwheeling: :partying_face: :confetti_ball: :balloon:I am a career changer and currently looking for a full time role in Data Analytics/Analytics Engineering!
+I'm a Data Analyst/Analytics Engineer living in San Francisco :man_cartwheeling: :partying_face: :confetti_ball: :balloon:
 
 <br>
 
